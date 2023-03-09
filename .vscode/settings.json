@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.plantuml": "plantuml",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp"
+    }
+}
